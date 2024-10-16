@@ -1,0 +1,121 @@
+ *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+ }
+
+ header{
+    background-image: url(image/polygon-material-design-abstract-3d-wallpaper-preview.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+ }
+
+ .logo a{
+    color:#fff;
+padding: 0px 20px;
+border: 1px solid #aaa;
+position: absolute;
+top: 10px;
+left: 10px;
+text-transform: uppercase;
+text-decoration: none;
+font-weight: 900;
+text-shadow: rgba(0, 0, 0, 0,7);
+ }
+
+ .logo a :hover{
+    background-color: beige;
+ }
+
+.logo span{
+color: rgb(238, 56, 11);
+font-weight: bold;
+font-size: 3rem;
+
+}
+
+ul{
+    list-style: none;
+    float:right;
+    margin-top: 30px;
+}
+
+ul li a {
+  text-decoration: none;  
+  color: beige;
+  size: 300px;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  border: 1px solid floralwhite;
+  font-weight: 500;
+  transition: 0,6s ease;
+}
+
+ul li a:hover{
+    background: #a31111;
+    color: black;
+
+}
+
+.titre{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.titre h1{
+    color: #fff;
+    font-size: 70px;
+}
+
+.bouton{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.bouton a{
+    color: #aaa;
+    text-decoration: none;
+    border: 1px solid floralwhite;
+    padding: 10px 20px;
+}
+
+.btn{
+    transition: 00,6s ease;
+}
+
+.btn :hover{
+    background-color: #aaa;
+    color: black;
+}
+
+img{
+    width: 905px;
+    height:auto;
+}
+
+img{
+    width: 905px;
+    height: auto;
+}
+
+img{
+    width: 905px;
+    height: auto;
+}
+
+img{
+    width: 905px;
+    height: auto; 
+}
+
+img{
+    width: 905px;
+    height: auto;
+
+}
